@@ -47,9 +47,9 @@ function getTotalSupply() {
 
 // call your functions below this line
 mintNFT("NFT I", "Kritarth", "Blazer", "Nissan GTR");
-mintNFT("NFT II", "Goblin", "Seatshirt", "Toyota Supra");
-mintNFT("NFT III", "Jaxon", "Trouser", "Porsche 911");
-mintNFT("NFT IV", "Jonny", "High Rise Shirt", "Ford Mustang GT");
+mintNFT("NFT II", "Raju", "Seatshirt", "Toyota Supra");
+mintNFT("NFT III", "Aryan", "Trouser", "Porsche 911");
+mintNFT("NFT IV", "Shubham", "High Rise Shirt", "Ford Mustang GT");
 
 listNFTs();
 console.log("Total NFTs minted: " + getTotalSupply());
