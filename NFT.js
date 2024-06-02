@@ -7,7 +7,7 @@ Assessment Requirements
 3. Your listNFTs() function will print all of your NFTs metadata to the console (i.e. console.log("Name: " + someNFT.name))
 4. For good measure, getTotalSupply() should return the number of NFT's you have created
 
-EDITOR-SUJAL DUA UID-21BCS5327 
+EDITOR- Kritarth Singh UID-21BCS5418
 */
 
 // create a variable to hold your NFT's
@@ -46,7 +46,7 @@ function getTotalSupply() {
 }
 
 // call your functions below this line
-mintNFT("NFT I", "Sujal", "Blazer", "Nissan GTR");
+mintNFT("NFT I", "Kritarth", "Blazer", "Nissan GTR");
 mintNFT("NFT II", "Goblin", "Seatshirt", "Toyota Supra");
 mintNFT("NFT III", "Jaxon", "Trouser", "Porsche 911");
 mintNFT("NFT IV", "Jonny", "High Rise Shirt", "Ford Mustang GT");
